@@ -6,7 +6,7 @@ export const patches: ExtensionWebExports["patches"] = [
     find: /"User Settings",/g,
     replace: {
       match: /"User Settings",/g,
-      replacement: '"hacked by Toggle Chat lol",'
+      replacement: '"toggle chat loaded",'
     }
   }
 ];

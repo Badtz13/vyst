@@ -1,13 +1,15 @@
 {
   "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
-  "id": "Toggle Chat",
+  "id": "toggleChat",
   "version": "1.0.0",
   "apiLevel": 2,
   "meta": {
     "name": "Toggle Chat",
-    "tagline": "A short tagline that appears below the name",
-    "description": "A longer description that can **use Markdown**",
-    "authors": ["You!"],
-    "source": "https://example.com/"
+    "tagline": "Toggle the chat pane",
+    "description": "Adds a button to toggle the chat pane on and off",
+    "authors": [
+      "badtz"
+    ],
+    "source": "https://github.com/Badtz13/vyst"
   }
 }
